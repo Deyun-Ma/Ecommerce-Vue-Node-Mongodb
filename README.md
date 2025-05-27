@@ -2,6 +2,21 @@
 
 这是一个基于 Vue 3 + Node.js + MongoDB 的现代化电商管理系统。
 
+## 界面预览
+
+### 首页
+![首页界面](./src/assets/home.png)
+
+### 商品列表
+![商品列表](./src/assets/products.png)
+
+### 登录界面
+![登录界面](./src/assets/login.png)
+
+### 注册界面
+![注册界面](./src/assets/register.png)
+
+
 ## 技术栈
 
 ### 前端
